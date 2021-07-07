@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CustomPropertyAction",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CustomPropertyAction",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+		  "Name": "CustomPropertyActionEditor",
+		  "Type": "UncookedOnly",
+		  "LoadingPhase": "Default"
+		}
+	]
+}
